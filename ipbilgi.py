@@ -9,6 +9,7 @@ os.system("figlet ip sorgu")
 
 print("""
 Seonly Hizmetinizde!
+
 Hos Geldiniz. Islemler:
 
 1- Hizli Tarama
