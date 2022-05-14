@@ -5,10 +5,9 @@ import os
 os.system("apt-get install figlet")
 os.system("clear")
 #tool yerine kendi toolunuzun ismini yazın.
-os.system("figlet İpSorgu")
+os.system("figlet Seonly İp Sorgu")
 
 print("""
-Seonly Hizmetinizde!
 Hos Geldiniz. Islemler:
 
 1- Hizli Tarama
