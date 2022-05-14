@@ -5,7 +5,7 @@ import os
 os.system("apt-get install figlet")
 os.system("clear")
 #tool yerine kendi toolunuzun ismini yazın.
-os.system("figlet Seonly İp Sorgu")
+os.system("figlet Seonly ip sorgu")
 
 print("""
 Hos Geldiniz. Islemler:
